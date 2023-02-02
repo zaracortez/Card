@@ -70,7 +70,30 @@
       <recent name="C:\Homework\Card\artifacts" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CardTest.shouldGetDeliveryCard">
+  <component name="RunManager" selected="Gradle.CardTest">
+    <configuration name="CardTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.Card.CardTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="CardTest.shouldGetDeliveryCard" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -100,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CardTest" />
         <item itemvalue="Gradle.CardTest.shouldGetDeliveryCard" />
         <item itemvalue="JAR Application.app-card-delivery.jar" />
       </list>
