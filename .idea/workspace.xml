@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff645caa-f2ff-4e13-b15c-d7cfc671b500" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/driver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/Card/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/Card/CardTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="ff645caa-f2ff-4e13-b15c-d7cfc671b500" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,20 +54,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Homework/Card/src/test/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Homework/Card&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "C:/Homework/Card/src/test/java",
+    "last_opened_file_path": "C:/Homework/Card",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Homework\Card\artifacts" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CardTest">
+  <component name="RunManager" selected="Gradle.CardTest.shouldGetDeliveryCard (1)">
     <configuration name="CardTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -88,6 +83,29 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;ru.netology.Card.CardTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CardTest.shouldGetDeliveryCard (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.card.CardTest.shouldGetDeliveryCard&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -126,6 +144,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CardTest.shouldGetDeliveryCard (1)" />
         <item itemvalue="Gradle.CardTest" />
         <item itemvalue="Gradle.CardTest.shouldGetDeliveryCard" />
         <item itemvalue="JAR Application.app-card-delivery.jar" />
